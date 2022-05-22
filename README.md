@@ -1,2 +1,3 @@
-# CPAD
-協同民衆会盟: 日本衆志 / Cooperative People's Alliance: Demosistō Japan
+# [CPAD: 協同民衆会盟 - Cooperative People's Alliance](./CPAD/index.md)
+
+## [日本衆志(民主21, 民主22) - Demosistō Japan](./DemoJP/index.md)
