@@ -1,0 +1,7 @@
+# Pre-Draft in Working Dir
+/wd/.pre/*
+/*/wd/.pre/*
+
+# Private Draft/Memorundom of Core Members in Working Dir
+/wd/*/.private/*
+/*/wd/*/.private/*
